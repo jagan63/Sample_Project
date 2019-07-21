@@ -200,7 +200,7 @@
 	</build>
 	 <distributionManagement>
               <repository>
-		  <id>jillmaven</id>
+		  <id>deployment</id>
 	          <name>Internal releases</name>
 		      <url>http://3.14.131.6:8081/repository/jillmaven/</url>
 	      </repository>
